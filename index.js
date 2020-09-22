@@ -30,3 +30,4 @@ function wakeDog(dogName, dogBreed){
       arr.push(routine[i](h,r))
 }
 return arr 
+}
